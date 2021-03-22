@@ -1,2 +1,2 @@
-# git-curso
+# git-cursos
 es el curso de git 
